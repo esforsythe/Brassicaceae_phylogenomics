@@ -17,4 +17,4 @@ git push
 
 List of scripts included:
 Clean_CDSandAAseqs.R
--An R script that cleans CDS files to contain only the longest isoform for each gene. This script also translated CDS to AA and output an AA fasta file to ensure that CDS and AA files are compatible.
+-An R script that cleans CDS files to contain only the longest isoform for each gene. This script also translates CDS to AA and output an AA fasta file to ensure that CDS and AA files are compatible.
