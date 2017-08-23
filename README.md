@@ -7,6 +7,9 @@ Scripts are written in perl, shell, and R.
 Git notes:
 
 git add --all
+
 git status
+
 git commit -m "notes about the changes made"
+
 git push
