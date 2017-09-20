@@ -9,6 +9,9 @@ List of scripts included:
 Clean_CDSandAAseqs.R
 -An R script that cleans CDS files to contain only the longest isoform for each gene. This script also translates CDS to AA and output an AA fasta file to ensure that CDS and AA files are compatible.
 
+batch_raxml.pl
+-A perl wrapper script for running for inferring gene trees from multiple alignments 
+
 Topology_analysis_nuc.R
 -Script for assessing the topology of single-copy nuclear gene trees
 
