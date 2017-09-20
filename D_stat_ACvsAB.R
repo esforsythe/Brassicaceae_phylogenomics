@@ -1,4 +1,4 @@
-setwd("/Users/esforsythe/Documents/Beilstiein_lab_research/BIOINFORMATICS/Brassicaceae_Phylo/0_170207_REDO_w_Chir/170626_Dstat_ACtree")
+setwd("./R_test_dir/")
 
 #Install and load packages
 install.packages("boot")

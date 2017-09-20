@@ -7,7 +7,7 @@
 
 
 #set working directory
-setwd("/Users/esforsythe/Documents/Beilstiein_lab_research/BIOINFORMATICS/Brassicaceae_Phylo/0_170207_REDO_w_Chir/Brassicaceae_phylogenomics/R_test_dir")
+setwd("./R_test_dir/")
 
 install.packages("data.table")
 library(data.table)

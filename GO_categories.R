@@ -1,4 +1,4 @@
-setwd("/Users/esforsythe/Documents/Beilstiein_lab_research/BIOINFORMATICS/Brassicaceae_Phylo/0_170207_REDO_w_Chir/170618_organelle_localized/TAIR_GO_annotations170619")
+setwd("./R_test_dir/")
 library(plyr)
 install.packages("dplyr")
 library(dplyr)

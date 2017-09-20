@@ -1,5 +1,5 @@
 #Set working directory
-setwd("/Users/esforsythe/Documents/Beilstiein_lab_research/BIOINFORMATICS/Brassicaceae_Phylo/0_170207_REDO_w_Chir/170601_branchlengths")
+setwd("./R_test_dir/")
 
 #load some packages
 install.packages("ape")

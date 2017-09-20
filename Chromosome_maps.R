@@ -1,4 +1,4 @@
-setwd("/Users/esforsythe/Documents/Beilstiein_lab_research/BIOINFORMATICS/Brassicaceae_Phylo/0_170207_REDO_w_Chir/170621_NewChromFigs")
+setwd("./R_test_dir/")
 
 #Install bioconductor, which is not available from CRAN
 source("https://bioconductor.org/biocLite.R")

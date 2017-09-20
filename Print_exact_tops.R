@@ -1,4 +1,4 @@
-setwd("/Users/esforsythe/Documents/Beilstiein_lab_research/BIOINFORMATICS/Brassicaceae_Phylo/0_170207_REDO_w_Chir/170624_other_topologies")
+setwd("./R_test_dir/")
 
 #Load packages
 install.packages("ape")

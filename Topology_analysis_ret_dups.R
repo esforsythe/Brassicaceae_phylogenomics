@@ -1,5 +1,5 @@
 #set the working directory
-setwd("/Users/esforsythe/Documents/Beilstiein_lab_research/BIOINFORMATICS/Brassicaceae_Phylo/0_170207_REDO_w_Chir/RAxML_results_retdups_170215")
+setwd("./R_test_dir/")
 
 #load some packages
 install.packages("ape")

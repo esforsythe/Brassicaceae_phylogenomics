@@ -5,7 +5,7 @@
 # To ensure perfect agreement between CDS files and AA files (which will save a lot of heartache downstream), this script translates CDS in AA and outputs an AA file.
 
 #Set the working directory to a directory containing the "uncleaned" CDS files.
-setwd("/Users/esforsythe/Documents/Beilstiein_lab_research/BIOINFORMATICS/Brassicaceae_Phylo/0_170207_REDO_w_Chir/Brassicaceae_phylogenomics/R_test_dir")
+setwd("./R_test_dir/")
 
 # Load and library the package, seqinr
 install.packages("seqinr")

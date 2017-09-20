@@ -1,5 +1,5 @@
 #Set the working directory
-setwd("/Users/esforsythe/Documents/Beilstiein_lab_research/BIOINFORMATICS/Brassicaceae_Phylo/0_170207_REDO_w_Chir/All_nuctrees_analysis170215/Prot_interact_network170421")
+setwd("./R_test_dir/")
 
 #Check out Blanc and Wolfe, 2004
 
