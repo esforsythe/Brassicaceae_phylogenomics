@@ -35,6 +35,9 @@ D_stat_BCvsAB.R
 D_stat_ACvsAB.R 
 -Script used to calculate the D-statistic comparing the frequencies of B(AC) and C(AB) for nuclear genes
 
+Phylonet.nex
+-Nexus file containing rooted nuclear gene trees. The last line of the file is the executable line for PhyloNet (this example is to run PhlyoNet with 0 reticulations). Analysis is run from command line with: java -jar /pathtophylonet/PhyloNet_3.6.1.jar Phylonet.nex >output_file
+
 Node_depths.R
 -Rate smooth gene trees and calculate node depths
 
