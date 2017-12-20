@@ -38,6 +38,9 @@ D_stat_ACvsAB.R
 Phylonet.nex
 -Nexus file containing rooted nuclear gene trees. The last line of the file is the executable line for PhyloNet (this example is to run PhlyoNet with 0 reticulations). Analysis is run from command line with: java -jar /pathtophylonet/PhyloNet_3.6.1.jar Phylonet.nex >output_file
 
+TICR.R 
+-Script for performing the TICR test. 
+
 Node_depths.R
 -Rate smooth gene trees and calculate node depths
 
